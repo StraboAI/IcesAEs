@@ -1,0 +1,17 @@
+name: ice_aes
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python=3.9
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+  - pip
+    - optuna
+    - sktime
